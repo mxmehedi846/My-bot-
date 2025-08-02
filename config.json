@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "mxmehedi8464@gmail.com",
+		"password": "mdmehedihasan",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -21,7 +21,7 @@
 	"adminBot": [
 		"100091418287736"
 	],
-	"owner": ["100081254133815"],
+	"owner": ["100091418287736"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
